@@ -1,6 +1,6 @@
 ### Hi there 👋
  I'm  Abdelrahman Ahmed Oraby
- A passionate Cross-Platfrom Software Engineer 
+ A passionate Cross-Platfrom Software Engineer From Egypt
 <!--
 **abdelrahman-orabi/abdelrahman-orabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
